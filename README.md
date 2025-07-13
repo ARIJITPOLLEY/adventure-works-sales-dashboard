@@ -39,14 +39,14 @@ Donut chart showing:
 
 41–60 Years: 12.07M
 
-61–80 Years: 1.41M
+61–80 Years: 11.43M
 
-81–120 Years: 0.00M
+81–120 Years: 1.41M
 
 3. Total Sales by Gender
-Female (F): 12.24M
+Female (F): 12.52M
 
-Male (M): 12.52M
+Male (M): 12.24M
 
 Not Available (NA): 0.16M
 
@@ -55,7 +55,7 @@ Bikes: 23.64M
 
 Accessories: 907K
 
-Clothing: 45K
+Clothing: 365K
 
 5. Sales by Country
 Map visualization showing concentration of sales across continents, particularly North America, Europe, and Australia.
